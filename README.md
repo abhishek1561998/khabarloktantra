@@ -21,7 +21,7 @@ Contributions are welcome and encouraged! If you want to contribute, please foll
 1. Fork the repository and clone it to your local machine.
 
    ```sh
-   git clone https://github.com/abhishek1561998/khabarloktantra.git
+   git clone https://github.com/<your-username>/khabarloktantra.git
    cd khabarloktantra
    ```
 
