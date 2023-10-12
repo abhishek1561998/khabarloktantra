@@ -3,6 +3,11 @@ hacktoberfest
 
 🌟 Join the Web Development Revolution! Contribute to Our GitHub Repository! 🌟
 
+
+https://khabarloktantra.com/
+
+i want to make ui like this Frontend and bacckend as pper best ui
+
 About
 Are you passionate about web development? Do you want to be a part of something bigger than yourself? Are you looking to contribute to open source projects during Hacktoberfest 2023? Look no further! You're in the right place! This repository is designed to help you get started on your open-source journey.
 
